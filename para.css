@@ -1,0 +1,36 @@
+h1{
+	color: #FF6347;
+	font-family: arial, "times new roman", verdana, Impact, courier;
+	font-variant: large;
+	text-align: center;
+}
+
+h2{
+	color: #006400;
+	background-color: #FFD700;
+}
+
+header{
+	text-align:center;
+
+}
+
+h3{
+	color: #008080;
+	background-color: #7FFFD4;
+}
+p{
+	background-color: #FFC0CB;
+}
+nav{
+	background-color: #98FB98;
+}
+footer{
+	background-color: #FFE4B5;
+}
+div{
+	background-color: #FF7F50;
+}
+h4{
+	background-color: #ADFF2F;
+}
